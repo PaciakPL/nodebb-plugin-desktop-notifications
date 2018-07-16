@@ -1,0 +1,5 @@
+{
+	"desktop_notifications.title": "Powiadomienia na pulpicie",
+    "desktop_notifications.message": "<strong>%1</strong> potrzebuje Twojej zgody, by aktywować powiadomienia na pulpicie. Kliknij tutaj, by je aktywować.",
+    "desktop_notifications.ignored": "Powiadomienia na pulpicie zostały wyłączone. Możesz włączyć je ponownie na stronie ustawień."
+}
